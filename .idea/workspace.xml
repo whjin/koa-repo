@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b2f2ddb-a1a7-4aea-bf94-200c43ee6ff9" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/koa-repo.iml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
@@ -1884,12 +1885,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1514199485604</updated>
-      <workItem from="1514199487168" duration="1748000" />
+      <workItem from="1514199487168" duration="1766000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1748000" />
+    <option name="totallyTimeSpent" value="1766000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="590" y="139" width="1261" height="738" extended-state="0" />
