@@ -25,6 +25,7 @@
         "mini-logger": "1.0.0"
     },
     "devDependencies": {
+        "babel-preset-env": "^1.6.1",
         "mocha": "^1.18.2",
         "ms": "^0.7.1",
         "should": "3.3.2",
